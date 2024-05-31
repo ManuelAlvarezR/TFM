@@ -1,0 +1,8 @@
+data;
+
+param l1 := 0.5;
+param u1 := 6;
+param l2 := 0;
+param u2 := 6;
+param l3 := 0;
+param u3 := 0.5;

@@ -1,0 +1,83 @@
+# option gurobi_options;
+# option gurobi_options '';
+reset;
+reset;
+
+# shell "dir /b *.run > archivos.txt"; #crear o archivo .txt que conten o nome dos problemas .run
+
+      
+model kall_diffcircles_5a.run;
+param valor integer;
+param n integer;
+
+printf"\n\n - Queres activar o bucle? No(0) Yes \n";
+read valor <- ;   # read data interactively
+if valor>0 then{
+printf"\n\n - Número de iter? \n";
+read n <- ;   
+}
+
+# General solving options
+suffix bestbound OUT;
+option reset_initial_guesses 1; # Para que cando resolva varias formulacions, inicie a resolucion da nova formulacion cos valores iniciales 0,0 (igual que no caso anterior)
+# Se nn o pon, por defecto colle a solucion anterior, que esta ben para eficiencia pero non para comparar
+option dual_initial_guesses 0; # o memso, coas variables duales
+option send_statuses 0; # para indicar as variables que estan na base
+
+
+option show_stats 0; # AMPL will show stats about number of constraints and variables when running solve
+option presolve 0;	# Disable AMPL presolve
+
+
+printf"\n####################################";
+printf"\n-------------- Gurobi--------------";
+printf"\n####################################\n ";
+option solver gurobi;
+
+# "$gurobi_options" ensures that options are added on top of previously declared options
+option gurobi_options 'presolve=0'; ## Disable Gurobi presolve
+option gurobi_options $gurobi_options ' bestbound=1'; ## Return best bound (LB)
+option gurobi_options $gurobi_options ' Threads=1';
+
+option gurobi_options $gurobi_options ' outlev=0'; ## Print more information while solving
+
+option gurobi_options $gurobi_options ' method=1'; ## Which algorithm to use for non-MIP problems or for the root node of MIP problems
+# -1 automatic (default): 3 for LP, 2 for QP, 1 for MIP root node
+# 0 = primal simplex; 1 = dual simplex; 2 = barrier; 3 = nondeterministic concurrent (several solves in parallel); 4 = deterministic concurrent; 5 = deterministic concurrent simplex.
+
+if valor == 0 then{
+printf"\n\n - Non hai límite de iteracións - \n";
+solve;
+
+printf"\n";
+display solve_result;
+display solve_exitcode;
+printf"%6.2f\n",_solve_elapsed_time; #tempo de reloxo transcorrido
+printf"%6.2f\n",_solve_time; #tempo que o sistema require para leer procesar e resolver exclusivamente ...
+printf"%6.2f\n",_solve_user_time ; #tempo total que o procesador (un só núcleo neste caso) requiriu para resolver exclusivamente o noso problema
+   } 
+else{
+
+printf"\n\n - Executando con limite de iteracións -\n";
+for {i in 0.1..1.1 by 0.1} {
+   option gurobi_options ('iterlim=' & round(n*i));
+   option gurobi_options $gurobi_options ' presolve=0 bestbound=1 Threads=1 outlev=0 method=1 logfile=kall_diffcircles_5a_log.txt'; 
+
+solve;
+
+
+printf"\n";
+display solve_result;
+display solve_exitcode; 
+
+printf"%6.2f\n",_solve_elapsed_time > kall_diffcircles_5a_time_elapsed.log; #tempo de reloxo transcorrido
+printf"%6.2f\n",objfun> kall_diffcircles_5a_FO.log;
+
+printf"%6.2f\n",_solve_user_time > kall_diffcircles_5a_time_user.log; ##tempo total que o procesador (un só núcleo neste caso) requiriu para resolver exclusivamente o noso problema
+printf"%6.2f\n",_solve_time > kall_diffcircles_5a_time.log; #tempo que o sistema require para leer procesar e resolver exclusivamente ...
+
+#printf"%6.2f\n",Total_Cost.bestbound>kall_diffcircles_5a_LB.log;
+#printf"%6.2f\n",Total_Cost>kall_diffcircles_5a_FO.log;
+
+}
+}

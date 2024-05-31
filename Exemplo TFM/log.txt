@@ -1,0 +1,776 @@
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:19:32 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:21:00 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:22:12 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:23:51 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:24:13 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:27:43 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:46:37 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+       3   -2.5000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds (0.00 work units)
+Optimal objective -2.500000000e+00
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:46:59 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:50:44 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 1 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 12:51:10 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 1 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 13:05:55 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 12 rows and 3 columns
+Presolve time: 0.02s
+Presolved: 11 rows, 6 columns, 25 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -3.0000000e+00   7.500000e-01   0.000000e+00      0s
+
+Stopped in 2 iterations and 0.02 seconds (0.00 work units)
+Iteration limit reached
+
+Warning: unable to write requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 13:06:16 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 12 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 11 rows, 6 columns, 25 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -3.0000000e+00   7.500000e-01   0.000000e+00      0s
+       2   -2.5000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds (0.00 work units)
+Optimal objective -2.500000000e+00
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 13:06:32 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 12 rows and 3 columns
+Presolve time: 0.00s
+Presolved: 11 rows, 6 columns, 25 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -3.0000000e+00   7.500000e-01   0.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Warning: unable to write requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Wed May 22 13:06:59 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Thu May 23 10:12:04 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Thu May 23 10:15:35 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Thu May 23 10:16:22 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 1 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Thu May 23 10:18:37 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 1 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Thu May 23 10:18:54 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x4dd1dc85
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [6e+00, 6e+00]
+  RHS range        [1e+00, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:37:20 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.500000e-01   1.000001e+06      0s
+
+Stopped in 2 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:37:46 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.500000e-01   1.000001e+06      0s
+       4   -2.5000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 4 iterations and 0.00 seconds (0.00 work units)
+Optimal objective -2.500000000e+00
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:39:13 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.500000e-01   1.000001e+06      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:39:19 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.500000e-01   1.000001e+06      0s
+
+Stopped in 4 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:39:38 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.500000e-01   1.000001e+06      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:40:00 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 43 nonzeros
+Model fingerprint: 0x173fa3dd
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   1.000000e+00      0s
+       1    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  0.000000000e+00
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:40:25 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 53 nonzeros
+Model fingerprint: 0xc4f25567
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.0000000e-01   7.500000e-01   3.000001e+06      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:40:47 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 53 nonzeros
+Model fingerprint: 0xc4f25567
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:41:21 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:42:41 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0x14b63ade
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.375000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:43:12 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xc8c39b42
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:43:49 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 53 nonzeros
+Model fingerprint: 0xc4f25567
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   1.250000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+
+
+Gurobi 10.0.2 (win64) logging started Sun May 26 16:45:09 2024
+
+Set parameter LogFile to value "log.txt"
+Set parameter InfUnbdInfo to value 1
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (win64)
+
+CPU model: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 1 threads
+
+Optimize a model with 23 rows, 9 columns and 48 nonzeros
+Model fingerprint: 0xfdb46ed5
+Coefficient statistics:
+  Matrix range     [5e-01, 1e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [3e-01, 4e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.0000000e+30   2.125000e+30   1.000000e+00      0s
+
+Stopped in 3 iterations and 0.00 seconds (0.00 work units)
+Iteration limit reached
+
+Wrote requested result file 'sol.sol'
+

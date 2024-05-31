@@ -1,0 +1,28 @@
+
+reset;
+reset;
+ 
+model st_bpv2.mod;
+data Omega11.dat;
+
+# General solving options
+suffix bestbound OUT;
+option reset_initial_guesses 1; # Para que cando resolva varias formulacions, inicie a resolucion da nova formulacion cos valores iniciales 0,0 (igual que no caso anterior)
+# Se nn o pon, por defecto colle a solucion anterior, que esta ben para eficiencia pero non para comparar
+option dual_initial_guesses 0; #same, coas variables duales
+option send_statuses 0; # para indicar as variables que estan na base
+
+option show_stats 0; # AMPL will show stats about number of constraints and variables when running solve
+option presolve 0;	# Disable AMPL presolve
+
+printf"\n####################################\n ";
+option solver BARON;
+solve; 
+
+printf"\n";
+display solve_result;
+display solve_exitcode;
+display objfun;
+display x1;
+display x2;
+display x3;
